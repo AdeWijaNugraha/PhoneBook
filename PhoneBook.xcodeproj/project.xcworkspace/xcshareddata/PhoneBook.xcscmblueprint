@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B7F5AE77862D1755CC590BEC4BE037C49FE27C60",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B7F5AE77862D1755CC590BEC4BE037C49FE27C60" : 9223372036854775807,
+    "E047CF15B778AA73C11DB62FAAC19C6179A00749" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B080D13E-5772-4323-959F-72115DA3FFE9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B7F5AE77862D1755CC590BEC4BE037C49FE27C60" : "PhoneBook\/",
+    "E047CF15B778AA73C11DB62FAAC19C6179A00749" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PhoneBook",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PhoneBook.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/AdeWijaNugraha\/PhoneBook.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B7F5AE77862D1755CC590BEC4BE037C49FE27C60"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/AdeWijaNugraha\/HealtyCare.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E047CF15B778AA73C11DB62FAAC19C6179A00749"
+    }
+  ]
+}
